@@ -1,12 +1,12 @@
 # TimingPy
 
-TimingPy is a Python library to wrap the web API for [Timing.app][0].  
-Timing.app is a [paid][1] macOS app for time tracking.
+TimingPy is a Python library to wrap the web API for [Timing.app](https://timingapp.com/).  
+Timing.app is a [paid](https://timingapp.com/pricing) macOS app for time tracking.
 
 ## API Documentation
 
-[Web API Documentation][2]  
-[Timing Web Login][3]
+[Web API Documentation](https://web.timingapp.com/docs/)  
+[Timing Web Login](https://web.timingapp.com/login)
 
 ## TimingPy Usage
 
@@ -94,8 +94,3 @@ Timing.app is a [paid][1] macOS app for time tracking.
 
 As noted in [requirements.txt](./requirements.txt),
 `requests` is used for all outbound API calls
-
-[0]: (https://timingapp.com/)  
-[1]: (https://timingapp.com/pricing)  
-[2]: (https://web.timingapp.com/docs/)  
-[3]: (https://web.timingapp.com/login)
